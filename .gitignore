@@ -1,0 +1,25 @@
+# Entorno virtual
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Base de datos de pruebas
+*.db
+*.sqlite3
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDEs
+.vscode/
+.idea/
+
+# Playwright
+playwright-report/
+test-results/
